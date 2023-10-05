@@ -1,0 +1,931 @@
+header{
+  margin-left: 100px;
+}
+
+.component {
+  position: relative;
+  width: 1374px;
+  height: 80px;
+}
+
+.component .calque {
+  position: absolute;
+  width: 63px;
+  height: 64px;
+  top: 13px;
+  left: 0;
+}
+
+.component .LOCAWHEELS {
+  position: absolute;
+  width: 485px;
+  height: 47px;
+  top: 12px;
+  left: 78px;
+}
+
+.component .group {
+  position: absolute;
+  width: 165px;
+  height: 32px;
+  top: 22px;
+  left: 1154px;
+}
+
+.component .overlap-group {
+  width: 263px;
+  background-color: #000000;
+  position: relative;
+  height: 32px;
+  border-radius: 50px;
+}
+
+.component .text-wrapper {
+  position: absolute;
+  width: 74px;
+  top: 9px;
+  left: 43px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.component .div {
+  position: absolute;
+  width: 77px;
+  top: 30px;
+  left: 1058px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+  white-space: nowrap;
+  
+}
+
+.component .group-2 {
+  position: absolute;
+  width: 27px;
+  height: 21px;
+  top: 31px;
+  left: 1347px;
+}
+
+.component .line {
+  top: -5px;
+  position: absolute;
+  width: 27px;
+  height: 5px;
+  left: 0;
+}
+
+.component .img {
+  top: 6px;
+  position: absolute;
+  width: 27px;
+  height: 5px;
+  left: 0;
+}
+
+.component .line-2 {
+  top: 16px;
+  position: absolute;
+  width: 27px;
+  height: 5px;
+  left: 0;
+}
+
+.component .la-mobilit-facilit {
+  position: absolute;
+  width: 150px;
+  height: 14px;
+  top: 61px;
+  left: 78px;
+}
+
+.component .group-3 {
+  position: absolute;
+  width: 224px;
+  height: 31px;
+  top: 22px;
+  left: 607px;
+}
+
+.component .text-wrapper-2 {
+    position: absolute;
+    width: 200px;
+    top: 7px;
+    left: 38px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.component .vector {
+  position: absolute;
+  width: 32px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.component .overlap-wrapper {
+  position: absolute;
+  width: 165px;
+  height: 32px;
+  top: 23px;
+  left: 869px;
+}
+
+.component .overlap {
+  position: relative;
+  height: 32px;
+  border-radius: 50px;
+}
+
+.component .vector-2 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 8px;
+  left: 12px;
+}
+
+.component .rectangle {
+  position: absolute;
+  width: 165px;
+  height: 26px;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  border: 2px solid;
+  border-color: #000000;
+  padding-left: 12px;
+}
+
+.loupe{
+  position: absolute;
+  margin-top: 7px;
+  margin-left: 144px;
+}
+
+.label {
+  width: 411px;
+  height: 53px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.label .CHOOSE-YOUR-TEAM {
+  width: 400px;
+  height: 56px;
+  top: 0;
+  left: 0;
+}
+
+.box {
+  position: relative;
+  width: 1377px;
+  height: 188px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.box .group {
+  width: 1387px;
+  height: 188px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap {
+  position: absolute;
+  top: 0;
+  left: 237px;
+  border: 6px solid;
+  border-color: #000000;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  top: 139px;
+  left: 24px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .vector {
+  position: absolute;
+  width: 101px;
+  height: 130px;
+  top: 4px;
+  left: 38px;
+}
+
+.box .overlap-group {
+  position: absolute;
+  top: 0;
+  left: 475px;
+  border: 6px solid;
+  border-color: #000000;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .div {
+  position: absolute;
+  top: 139px;
+  left: 28px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .img {
+  position: absolute;
+  width: 54px;
+  height: 130px;
+  top: 10px;
+  left: 63px;
+}
+
+.box .overlap-2 {
+  position: absolute;
+  top: 0;
+  left: 713px;
+  border: 6px solid;
+  border-color: #000000;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  top: 139px;
+  left: 51px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .calque {
+  position: absolute;
+  width: 90px;
+  height: 91px;
+  top: 29px;
+  left: 50px;
+}
+
+.box .overlap-3 {
+  position: absolute;
+  top: 0;
+  left: 951px;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .text-wrapper-3 {
+  position: absolute;
+  top: 145px;
+  left: 34px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 188px;
+  height: 188px;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  border: 6px solid;
+  border-color: #000000;
+}
+
+.box .group-2 {
+  position: absolute;
+  width: 86px;
+  height: 111px;
+  top: 20px;
+  left: 56px;
+}
+
+.box .overlap-4 {
+  position: absolute;
+  top: 0;
+  left: 1189px;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .text-wrapper-4 {
+  position: absolute;
+  top: 145px;
+  left: 36px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .vector-2 {
+  position: absolute;
+  width: 94px;
+  height: 114px;
+  top: 25px;
+  left: 56px;
+}
+
+.box .vector-3 {
+  position: absolute;
+  width: 20px;
+  height: 25px;
+  top: 100px;
+  left: 94px;
+}
+
+.box .vector-4 {
+  position: absolute;
+  width: 83px;
+  height: 73px;
+  top: 22px;
+  left: 60px;
+}
+
+.box .overlap-group-wrapper {
+  position: absolute;
+  width: 190px;
+  height: 188px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap-group-2 {
+  position: relative;
+  border: 6px solid;
+  border-color: #000000;
+  width: 188px;
+  height: 188px;
+  border-radius: 20px;
+}
+
+.box .vector-5 {
+  position: absolute;
+  width: 133px;
+  height: 110px;
+  top: 24px;
+  left: 25px;
+}
+
+.box .text-wrapper-5 {
+  position: absolute;
+  top: 139px;
+  left: 63px;
+  font-family: "Roboto-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.label .CHOOSE-YOUR-PLAYER {
+  width: 411px;
+  top: 0;
+  left: 0;
+  font-family: "Minecraft-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  height: 55px;
+}
+
+.cont {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box2 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.box2 .group {
+  width: 1341px;
+  height: 887px;
+  top: 0;
+  left: 0;
+}
+
+.box2 .overlap-wrapper {
+
+  width: 1336px;
+  height: 424px;
+  top: 515px;
+  left: 80px;
+}
+
+.box2 .overlap {
+  position: relative;
+  height: 424px;
+}
+
+.box2 .div {
+  width: 424px;
+  height: 424px;
+  margin-top: 43px;
+}
+
+.box2 .overlap-group-wrapper {
+  width: 428px;
+  height: 424px;
+}
+
+.box2 .overlap-group {
+  position: relative;
+  width: 424px;
+  height: 424px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 5px solid;
+  border-color: #000000;
+  display: flex;
+	justify-content: space-around;
+  overflow: hidden;
+  flex-wrap:wrap;
+}
+
+.box2 .p {
+  margin-left:50px;
+  width: 148px;
+  top: 15px;
+  left: 105px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .text-wrapper {
+  font-weight: 600;
+  color: #000000;
+}
+
+.box2 .span {
+  font-family: "Roboto-Regular", Helvetica;
+  color: #cdcdcd;
+  font-size: 16px;
+}
+
+.box2 .text-wrapper-2 {
+  position: absolute;
+  width: 309px;
+  top: 116px;
+  left: 46px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .div-wrapper {
+  position: absolute;
+  width: 90px;
+  height: 33px;
+  top: 42px;
+  left: 289px;
+}
+
+.box2 .overlap-group-2 {
+  position: relative;
+  width: 88px;
+  height: 33px;
+  border-radius: 50px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.box2 .text-wrapper-3 {
+  position: absolute;
+  width: 49px;
+  top: 4px;
+  left: 16px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .group-wrapper {
+  position: absolute;
+  width: 164px;
+  height: 34px;
+  top: 351px;
+  left: 125px;
+}
+
+.box2 .group-2 {
+  width: 166px;
+  height: 34px;
+  margin-top: 25px;
+}
+
+.box2 .overlap-group-3 {
+  position: absolute;
+  width: 164px;
+  height: 34px;
+  background-color: #000000;
+  border-radius: 50px;
+  top: 365px;
+  left: 122px;
+
+}
+
+.box2 .text-wrapper-4 {
+  position: absolute;
+  width: 145px;
+  top: 10px;
+  left: 9px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .velo-de-ville-elops {
+  position: absolute;
+  width: 273px;
+  height: 185px;
+  top: 154px;
+  left: 67px;
+}
+
+.box2 .div-2 {
+  position: absolute;
+  width: 424px;
+  height: 424px;
+  top: 0;
+  left: 457px;
+}
+
+.box2 .text-wrapper-5 {
+  position: absolute;
+  width: 311px;
+  top: 102px;
+  left: 46px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .text-wrapper-6 {
+  position: absolute;
+  width: 49px;
+  top: 4px;
+  left: 24px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .group-3 {
+  position: absolute;
+  width: 1306px;
+  height: 424px;
+  top: 0;
+  left: 30px;
+}
+
+.box2 .group-4 {
+  position: relative;
+  width: 1310px;
+  height: 424px;
+}
+
+.box2 .overlap-2 {
+  position: absolute;
+  width: 424px;
+  height: 424px;
+  top: 0;
+  left: 882px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: 5px solid;
+  border-color: #000000;
+}
+
+.box2 .overlap-3 {
+  position: absolute;
+  width: 188px;
+  height: 221px;
+  top: 162px;
+  left: 118px;
+}
+
+.box2 .trottinette-mid {
+  position: absolute;
+  width: 188px;
+  height: 188px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.box2 .group-5 {
+  position: absolute;
+  width: 164px;
+  height: 34px;
+  top: 187px;
+  left: 12px;
+}
+
+.box2 .text-wrapper-7 {
+  position: absolute;
+  width: 311px;
+  top: 93px;
+  left: 46px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box2 .group-6 {
+  position: absolute;
+  width: 90px;
+  height: 33px;
+  top: 35px;
+  left: 289px;
+}
+
+.box2 .ellipse-wrapper {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 24px;
+  left: 32px;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.box2 .ellipse {
+  height: 54px;
+  border-radius: 27px;
+  border: 3px solid;
+  border-color: #000000;
+}
+
+.box2 .img {
+  top: 30px;
+  left: 0;
+  position: absolute;
+  width: 54px;
+  height: 54px;
+}
+
+.box2 .group-7 {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: -3px;
+  left: 455px;
+  background-image: url(./img/image.svg);
+  background-size: 100% 100%;
+}
+
+.box2 .perfect-skateboard {
+  position: absolute;
+  width: 239px;
+  height: 110px;
+  top: 212px;
+  left: 545px;
+}
+
+.box2 .group-8 {
+  position: absolute;
+  width: 1338px;
+  height: 424px;
+  top: 34px;
+  left: 80px;
+}
+
+.box2 .overlap-4 {
+  position: relative;
+  width: 428px;
+  height: 424px;
+}
+
+.box2 .group-9 {
+  position: absolute;
+  width: 428px;
+  height: 424px;
+  top: 0;
+  left: 0;
+}
+
+.box2 .group-10 {
+  position: absolute;
+  width: 54px;
+  height: 54px;
+  top: 33px;
+  left: 29px;
+}
+
+.box2 .perfect-skateboard-2 {
+  position: absolute;
+  width: 239px;
+  height: 110px;
+  top: 212px;
+  left: 88px;
+}
+
+.box2 .overlap-5 {
+  position: absolute;
+  width: 424px;
+  height: 424px;
+  top: 0;
+  left: 914px;
+}
+
+.box2 .group-11 {
+  top: 27px;
+  left: 42px;
+  position: absolute;
+  width: 54px;
+  height: 54px;
+}
+
+.box2 .group-12 {
+  position: absolute;
+  width: 90px;
+  height: 33px;
+  top: -8px;
+  left: 24px;
+}
+
+.box2 .trottinette-mid-2 {
+  position: absolute;
+  width: 188px;
+  height: 188px;
+  top: 169px;
+  left: 118px;
+  object-fit: cover;
+}
+
+/* Styles pour le pied de page */
+footer {
+  background-color: #050000;
+  color: #fff;
+  margin-top: 112px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-logo img {
+  width: 100px; /* Ajustez la largeur de votre logo */
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.footer-links li {
+  margin-right: 20px;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-social ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.footer-social li {
+  margin-right: 10px;
+}
+
+.footer-social a img {
+  width: 20px; /* Ajustez la taille des icônes de médias sociaux */
+}
+
+.footer-info {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Styles pour les médias sociaux */
+.footer-info p {
+  margin: 0;
+  font-size: 14px;
+}
+
+/* Styles pour les médias sociaux */
+.footer-info a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Styles pour les droits d'auteur */
+.footer-info p::before {
+  content: "\00a9"; /* Code Unicode pour le symbole de copyright */
+  margin-right: 5px;
+}
+
+/* Réactivité pour les écrans plus petits */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-links,
+  .footer-social {
+    margin-top: 20px;
+  }
+
+  .footer-links ul,
+  .footer-social ul {
+    justify-content: center;
+  }
+
+  .footer-logo img {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,352 @@
+header{
+    margin-left: 100px;
+  }
+  
+  .component {
+    position: relative;
+    width: 1374px;
+    height: 80px;
+  }
+  
+  .component .calque {
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    top: 13px;
+    left: 0;
+  }
+  
+  .component .LOCAWHEELS {
+    position: absolute;
+    width: 485px;
+    height: 47px;
+    top: 12px;
+    left: 78px;
+  }
+  
+  .component .group {
+    position: absolute;
+    width: 165px;
+    height: 32px;
+    top: 22px;
+    left: 1154px;
+  }
+  
+  .component .overlap-group {
+    width: 263px;
+    background-color: #000000;
+    position: relative;
+    height: 32px;
+    border-radius: 50px;
+  }
+  
+  .component .text-wrapper {
+    position: absolute;
+    width: 74px;
+    top: 9px;
+    left: 43px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .component .div {
+    position: absolute;
+    width: 77px;
+    top: 30px;
+    left: 1058px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .component .group-2 {
+    position: absolute;
+    width: 27px;
+    height: 21px;
+    top: 31px;
+    left: 1347px;
+  }
+  
+  .component .line {
+    top: -5px;
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    left: 0;
+  }
+  
+  .component .img {
+    top: 6px;
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    left: 0;
+  }
+  
+  .component .line-2 {
+    top: 16px;
+    position: absolute;
+    width: 27px;
+    height: 5px;
+    left: 0;
+  }
+  
+  .component .la-mobilit-facilit {
+    position: absolute;
+    width: 150px;
+    height: 14px;
+    top: 61px;
+    left: 78px;
+  }
+  
+  .component .group-3 {
+    position: absolute;
+    width: 224px;
+    height: 31px;
+    top: 22px;
+    left: 607px;
+  }
+  
+  .component .text-wrapper-2 {
+      position: absolute;
+      width: 200px;
+      top: 7px;
+      left: 38px;
+      font-family: "Roboto-Bold", Helvetica;
+      font-weight: 700;
+      color: #000000;
+      font-size: 18px;
+      letter-spacing: 0;
+      line-height: normal;
+  }
+  
+  .component .vector {
+    position: absolute;
+    width: 32px;
+    height: 31px;
+    top: 0;
+    left: 0;
+  }
+  
+  .component .overlap-wrapper {
+    position: absolute;
+    width: 165px;
+    height: 32px;
+    top: 23px;
+    left: 869px;
+  }
+  
+  .component .overlap {
+    position: relative;
+    height: 32px;
+    border-radius: 50px;
+  }
+  
+  .component .vector-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 8px;
+    left: 12px;
+  }
+  
+  .component .rectangle {
+    position: absolute;
+    width: 165px;
+    height: 26px;
+    top: 0;
+    left: 0;
+    border-radius: 50px;
+    border: 2px solid;
+    border-color: #000000;
+    padding-left: 12px;
+  }
+  
+  .loupe{
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 144px;
+  }
+
+  .label {
+    width: 335px;
+    height: 53px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .label .v {
+    width: 333px;
+    height: 46px;
+  }
+
+  .cont {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 634px;
+  }
+
+  .label {
+    width: 309px;
+    height: 23px;
+  }
+  
+  .label .text-wrapper {
+    width: 309px;
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    margin-left: -526px;
+    margin-top: 111px;
+  }
+
+  .label .text-wrapper-desc {
+    width: 431px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: -521px;
+  }
+
+  .box {
+    width: 115px;
+    height: 44px;
+  }
+  
+  .box .group {
+    width: 117px;
+    height: 44px;
+    margin-left: 1140px;
+    margin-top: -103px;
+  }
+  
+  .box .overlap-group {
+    position: relative;
+    width: 115px;
+    height: 44px;
+  }
+  
+  .box .rectangle {
+    position: absolute;
+    width: 108px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    border-radius: 30px;
+    border: 4px solid;
+    border-color: #000000;
+  }
+  
+  .box .text-wrapper {
+    position: absolute;
+    width: 93px;
+    top: 9px;
+    left: 22px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .image {
+    width: 590px;
+    height: 400px;
+    position: absolute;
+    left: 485px;
+    top: 381px;
+  }
+  
+  .image .velo-de-ville-elops {
+    width: 590px;
+    height: 400px;
+  }
+
+  .overlap-group-3 {
+    width: 164px;
+    height: 34px;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-top: 494px;
+  }
+
+  .text-wrapper-4 {
+    font-family: "Roboto-Black", Helvetica;
+    font-weight: 900;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .box_user {
+    width: 221px;
+    height: 54px;
+  }
+
+  .box_user .group_user {
+    width: 221px;
+    height: 54px;
+  }
+
+  .box_user .user-wrapper {
+    width: 150px;
+    height: 48px;
+  }
+
+  .box_user .user {
+    width: 148px;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: -1021px;
+    margin-top: -46px;
+  }
+
+  .box_user .text-wrapper_user{
+    font-weight: 600;
+    color: #000000;
+  }
+
+  .box_user span {
+    font-family: "Roboto-Regular", Helvetica;
+     color: #cdeded; 
+     font-size: 16px;
+  } 
+  
+  .box_user .overlap-group {
+    width: 54px;
+    height: 54px;
+    margin-left: -1101px;
+    margin-top: -55px;
+  }
+
+  .box_user .vector {
+    width: 54px;
+    height: 54px;
+  }
